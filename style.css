@@ -1,0 +1,112 @@
+h1{
+	text-align: center;
+	font-family: cursive;
+	color: white;
+}
+
+body {
+  background-image: url("Background.jpeg");
+  background-size: cover;
+}
+
+section{
+	padding: 80px;
+	color: white;
+}
+
+.product img {
+	width: 100%;
+	max-width: 350px;
+	border-radius: 5px;
+	background-color: white;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 15px;
+	margin: 15px 0;
+	text-align: center;
+}
+
+.product {
+	background-color: whitesmoke;
+	border: 1px solid #ddd;
+	border-radius: 5px;
+	padding: 10px;
+	margin: 15px 0;
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+.btn {
+  background-color: black;
+  border-color: black;
+}
+
+h2{
+	font-family: cursive;
+	color: white;
+}
+
+.navbar{
+    background-color: darkred;
+    padding: 10px;
+}
+.navbar ul{
+    text-align: center;
+}
+.navbar li{
+    display: inline;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.navbar li a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px;
+}
+
+
+.carousel-inner img{
+	margin: auto;
+	height: 300px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  img
+}
+
+.card {
+  margin: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+form{
+	color: white;
+}
+
+div{
+	color: white;
+}
+
+p{
+	text-align: center;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: 1px solid white;
+  padding: 15px;
+  text-align: left;
+} 
